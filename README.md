@@ -3,7 +3,7 @@
 
 ## AI Systems Engineer | ML Architect | Full-Stack Builder
 
-Artificial Intelligence and Software Engineer with 10+ years of experience architecting and deploying intelligent systems across Web, Cloud, and production environments.
+Artificial Intelligence and Software Engineer with experience architecting and deploying intelligent systems across Web, Cloud, and production environments.
 
 I specialize in building **real-world AI systems** — combining deep learning, NLP, computer vision, and full-stack engineering into scalable platforms that automate workflows, extract intelligence from data, and operate reliably in production.
 
